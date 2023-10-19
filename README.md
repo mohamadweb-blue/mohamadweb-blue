@@ -1,5 +1,4 @@
 
-### Hi there 👋
 
 <!--
 **mohamadweb-blue/mohamadweb-blue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hey there! I'm Mohamed 👋 </h1>
 
 
-   
-    <p>Hey! I'm Mohamad :wave:
-    <br><br>
-    I work as a Web :globe_with_meridians: developer!</p>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
