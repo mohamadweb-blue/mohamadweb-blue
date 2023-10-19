@@ -4,7 +4,13 @@
 **mohamadweb-blue/mohamadweb-blue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+ <br><br>
+  <samp>
+    Hey!! I'm Sarthak Singhal :wave:
+    <br><br>
+    I work as a Web :globe_with_meridians: developer!
+  </samp>
+</p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
