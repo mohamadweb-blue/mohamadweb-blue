@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <h4 align="center">
   🏫 I’m a high-school student.
+  <br></br>
 - 💪 I’m currently learning all About Web.
 - 🕗 I'm from Iran (UTC +03:30)</h4>
 
